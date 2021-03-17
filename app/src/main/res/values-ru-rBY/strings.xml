@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Criptocalc</string>
+    <string name="botao_tentar_novamente">повторить попытку</string>
+    <string name="sem_conexao_disponivel">Нет подключения!</string>
+    <string name="Informações">информация</string>
+    <string name="Volatilidade_Da_Moeda">Валютная волатильность</string>
+    <string name="Calculadora">калькулятор</string>
+    <string name="ValorUSD">Значение USD:</string>
+    <string name="Satoshi_Moeda">Сатоши (Валюта):</string>
+    <string name="botao_Calcular">Чтобы вычислить</string>
+    <string name="Percentua">процент:</string>
+    <string name="Conversão_para_Moeda">Конвертация валюты:</string>
+    <string name="Convesao_para_USD">Параллелизм к доллару США:</string>
+    <string name="OperaçãoMoeda">Операция Валюта:</string>
+    <string name="OperaçãoUSD">Операция USD:</string>
+    <string name="Sem_Conexão">Нет подключения !!!</string>
+    <string name="Menu_Atualizar">обновление</string>
+    <string name="Valor_CalculadoraActivity">значение</string>
+    <string name="Toast_CalculadoraActivity">Заполните одну из операций!</string>
+    <string name="hint_campo1">Конвенция для БТД</string>
+    <string name="hint_campo2">Конвенция для Долаr</string>
+    <string name="hint_campo3">Добавить процент</string>
+    <string name="Sete_Dias">7дней ➠</string>
+    <string name="Vinte_e_quatro_hs">24 часа ➠</string>
+    <string name="Uma_hs">1 часа➠</string>
+    <string name="msg_para_validar_parametro">загрузка...</string>
+    <string name="rank_list_moeda_adapter">рейтинг </string>
+    <string name="preco_lista_moeda_adapter">Диапазон цен</string>
+    <string name="volue_list_moeda_adapter">объем</string></resources>

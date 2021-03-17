@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">クリプトカルク</string>
+    <string name="botao_tentar_novamente">再試行</string>
+    <string name="sem_conexao_disponivel">接続できません！</string>
+    <string name="Informações">情報</string>
+    <string name="Volatilidade_Da_Moeda">通貨ボラティリティ</string>
+    <string name="Calculadora">電卓</string>
+    <string name="ValorUSD">値段USD：</string>
+    <string name="Satoshi_Moeda">Satoshi（通貨）：</string>
+    <string name="botao_Calcular">計算する</string>
+    <string name="Percentua">パーセンテージ：</string>
+    <string name="Conversão_para_Moeda">通貨換算：</string>
+    <string name="Convesao_para_USD">USDへの変換：</string>
+    <string name="OperaçãoMoeda">オペレーション通貨：</string>
+    <string name="OperaçãoUSD">操作USD：</string>
+    <string name="Menu_Atualizar">更新</string>
+    <string name="Valor_CalculadoraActivity">値</string>
+    <string name="Toast_CalculadoraActivity">操作の1つを記入してください！</string>
+    <string name="hint_campo1">BTC条約</string>
+    <string name="hint_campo2">ドルのための条約</string>
+    <string name="hint_campo3">パーセンテージを追加</string>
+    <string name="Sete_Dias">7 日 ➠</string>
+    <string name="Vinte_e_quatro_hs">24時間   ➠</string>
+    <string name="Uma_hs">1時間   ➠</string>
+    <string name="msg_para_validar_parametro">読み込み中...</string>
+    <string name="rank_list_moeda_adapter">分類 </string>
+    <string name="preco_lista_moeda_adapter">価格帯</string>
+    <string name="volue_list_moeda_adapter">ボリューム</string>
+</resources>

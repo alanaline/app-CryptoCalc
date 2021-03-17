@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Criptocalc</string>
+    <string name="botao_tentar_novamente">riprovare</string>
+    <string name="sem_conexao_disponivel">Nessuna connessione disponibile !!!</string>
+    <string name="Informações">informazioni</string>
+    <string name="Volatilidade_Da_Moeda">Volatilità valutaria</string>
+    <string name="Calculadora">calcolatrice</string>
+    <string name="ValorUSD">Valore USD:</string>
+    <string name="Satoshi_Moeda">Satoshi (valuta):</string>
+    <string name="botao_Calcular">Calcolare</string>
+    <string name="Percentua">percentuale:</string>
+    <string name="Conversão_para_Moeda">Conversione di valuta:</string>
+    <string name="Convesao_para_USD">Conversione in USD:</string>
+    <string name="OperaçãoMoeda">Valuta di operazione:</string>
+    <string name="OperaçãoUSD">Operazione USD:</string>
+    <string name="Sem_Conexão">Nessuna connessione !!!</string>
+    <string name="Menu_Atualizar">aggiornare</string>
+    <string name="Valor_CalculadoraActivity">valore</string>
+    <string name="Toast_CalculadoraActivity">Compila una delle operazioni!</string>
+    <string name="hint_campo1">Convenzione per BTC</string>
+    <string name="hint_campo2">Convenzione per dollari</string>
+    <string name="hint_campo3">Aggiungi percentuale</string>
+    <string name="Sete_Dias">7 giorni ➠</string>
+    <string name="Vinte_e_quatro_hs">24hs   ➠</string>
+    <string name="Uma_hs">1hs   ➠</string>
+    <string name="msg_para_validar_parametro">caricamento...</string>
+    <string name="rank_list_moeda_adapter">valutazione </string>
+    <string name="preco_lista_moeda_adapter">Fascia di prezzo</string>
+    <string name="volue_list_moeda_adapter">Volume</string>
+</resources>

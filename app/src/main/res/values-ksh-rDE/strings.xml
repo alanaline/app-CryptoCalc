@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cryptocalc</string>
+    <string name="botao_tentar_novamente">Versuchen Sie es erneut</string>
+    <string name="sem_conexao_disponivel">Keine Verbindung möglich !!!</string>
+    <string name="Informações">Informationen</string>
+    <string name="Volatilidade_Da_Moeda">Volatilität der Währung</string>
+    <string name="Calculadora">Rechner</string>
+    <string name="ValorUSD">Wert USD:</string>
+    <string name="Satoshi_Moeda">Satoshi (Währung):</string>
+    <string name="botao_Calcular">Um zu berechnen</string>
+    <string name="Percentua">Prozentsatz:</string>
+    <string name="Conversão_para_Moeda">Währungsumrechnung:</string>
+    <string name="Convesao_para_USD">Umrechnung in USD:</string>
+    <string name="OperaçãoMoeda">Währung der Operation:</string>
+    <string name="OperaçãoUSD">Operation USD:</string>
+    <string name="Sem_Conexão">Keine Verbindung !!!</string>
+    <string name="Menu_Atualizar">Aktualisieren</string>
+    <string name="Valor_CalculadoraActivity">Wert</string>
+    <string name="Toast_CalculadoraActivity">Füllen Sie eine der Operationen aus!</string>
+    <string name="hint_campo1">Übereinkommen für BTC</string>
+    <string name="hint_campo2">Konvention für Dollar</string>
+    <string name="hint_campo3">Prozentsatz hinzufügen</string>
+    <string name="Sete_Dias">7 Tage ➠</string>
+    <string name="Vinte_e_quatro_hs">24Stunden   ➠</string>
+    <string name="Uma_hs">1Stunden   ➠</string>
+    <string name="msg_para_validar_parametro">Laden...</string>
+    <string name="rank_list_moeda_adapter">Klassifizierung </string>
+    <string name="preco_lista_moeda_adapter">Preisspanne</string>
+    <string name="volue_list_moeda_adapter">Volumen</string>
+</resources>

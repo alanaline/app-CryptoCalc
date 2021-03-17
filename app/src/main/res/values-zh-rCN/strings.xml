@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Criptocalc</string>
+    <string name="botao_tentar_novamente">重試</string>
+    <string name="sem_conexao_disponivel">沒有可用的連接！</string>
+    <string name="Informações">信息</string>
+    <string name="Volatilidade_Da_Moeda">貨幣波動</string>
+    <string name="Calculadora">計算器</string>
+    <string name="ValorUSD">價值美元：</string>
+    <string name="Satoshi_Moeda">聰（貨幣）：</string>
+    <string name="botao_Calcular">計算</string>
+    <string name="Percentua">百分比：</string>
+    <string name="Conversão_para_Moeda">貨幣換算：</string>
+    <string name="Convesao_para_USD">並髮美元：</string>
+    <string name="OperaçãoMoeda">操作幣種：</string>
+    <string name="OperaçãoUSD">美元操作：</string>
+    <string name="Sem_Conexão">沒有連接！</string>
+    <string name="Menu_Atualizar">更新</string>
+    <string name="Valor_CalculadoraActivity">值</string>
+    <string name="Toast_CalculadoraActivity">填寫其中一個操作！</string>
+    <string name="hint_campo1">BTC的公約</string>
+    <string name="hint_campo2">美元公約</string>
+    <string name="hint_campo3">添加百分比</string>
+    <string name="Sete_Dias">7天 ➠</string>
+    <string name="Vinte_e_quatro_hs">24小時  ➠</string>
+    <string name="Uma_hs">1小時   ➠</string>
+    <string name="msg_para_validar_parametro">載入中...</string>
+    <string name="rank_list_moeda_adapter">等級 </string>
+    <string name="preco_lista_moeda_adapter">價格範圍</string>
+    <string name="volue_list_moeda_adapter">音量</string>
+</resources>

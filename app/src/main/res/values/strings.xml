@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Cryptocalc</string>
+    <string name="admob_banner_id">ca-app-pub-5188608913087954/2349277733</string>
+    <string name="admob_banner_id2">ca-app-pub-5188608913087954/2349277733</string>
+    <string name="botao_tentar_novamente">Tentar novamente</string>
+    <string name="sem_conexao_disponivel">Sem conexão disponivel !!!</string>
+    <string name="Informações">Informações</string>
+    <string name="Volatilidade_Da_Moeda">Volatilidade Da Moeda</string>
+    <string name="Calculadora">Calculadora</string>
+    <string name="ValorUSD">Valor USD:</string>
+    <string name="Satoshi_Moeda">Satoshi(Moeda):</string>
+    <string name="botao_Calcular">Calcular</string>
+    <string name="Percentua">Percentual:</string>
+    <string name="Conversão_para_Moeda">Conversão para Moeda:</string>
+    <string name="Convesao_para_USD">Convesao para USD:</string>
+    <string name="OperaçãoMoeda">Operação Moeda:</string>
+    <string name="OperaçãoUSD">Operação USD:</string>
+    <string name="Sem_Conexão">Sem Conexão !!!</string>
+    <string name="Menu_Atualizar">Atualizar</string>
+    <string name="Valor_CalculadoraActivity">Valor</string>
+    <string name="Toast_CalculadoraActivity">Preencha uma das operações !</string>
+    <string name="hint_campo1">Convenção para BTC</string>
+    <string name="hint_campo2">Convenção para Dólar</string>
+    <string name="hint_campo3">Acrescentar porcentagem</string>
+    <string name="Sete_Dias">7 Dias ➠</string>
+    <string name="Vinte_e_quatro_hs">24hs   ➠</string>
+    <string name="Uma_hs">1hs   ➠</string>
+    <string name="msg_para_validar_parametro">Carregando...</string>
+    <string name="rank_list_moeda_adapter">Rank </string>
+    <string name="preco_lista_moeda_adapter">Preço</string>
+    <string name="volue_list_moeda_adapter">Volume</string>
+
+
+
+
+
+
+
+
+</resources>

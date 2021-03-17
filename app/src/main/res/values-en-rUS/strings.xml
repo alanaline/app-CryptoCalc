@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="botao_tentar_novamente">Try again</string>
+    <string name="sem_conexao_disponivel">No connection available !!!</string>
+    <string name="Informações">Information</string>
+    <string name="Volatilidade_Da_Moeda">Currency Volatility</string>
+    <string name="Calculadora">Calculator</string>
+    <string name="ValorUSD">USD value:</string>
+    <string name="Satoshi_Moeda">Satoshi Currency:</string>
+    <string name="botao_Calcular">Calculate</string>
+    <string name="Percentua">Percentage(%):</string>
+    <string name="Conversão_para_Moeda">Currency Conversion:</string>
+    <string name="Convesao_para_USD">Investment for USD:</string>
+    <string name="OperaçãoMoeda">Operation Currency:</string>
+    <string name="OperaçãoUSD">USD Operation:</string>
+    <string name="Sem_Conexão">No connection !!!</string>
+    <string name="Menu_Atualizar">Update</string>
+    <string name="Valor_CalculadoraActivity">Value</string>
+    <string name="Toast_CalculadoraActivity">Fill in one of the operations!</string>
+    <string name="hint_campo1">Convention for BTC</string>
+    <string name="hint_campo2">Convention for Dollars</string>
+    <string name="hint_campo3">Add percentage</string>
+    <string name="Sete_Dias">7days ➠</string>
+    <string name="Vinte_e_quatro_hs">24hours   ➠</string>
+    <string name="Uma_hs">1hours   ➠</string>
+    <string name="msg_para_validar_parametro">Loading...</string>
+    <string name="rank_list_moeda_adapter">Rank </string>
+    <string name="preco_lista_moeda_adapter">Price</string>
+    <string name="volue_list_moeda_adapter">Volume</string>
+</resources>

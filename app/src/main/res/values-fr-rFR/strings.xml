@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cryptocalc</string>
+    <string name="botao_tentar_novamente">Réessayer</string>
+    <string name="sem_conexao_disponivel">Pas de connexion disponible !!!</string>
+    <string name="Informações">Information</string>
+    <string name="Volatilidade_Da_Moeda">Volatilité de la devise</string>
+    <string name="Calculadora">Calculatrice</string>
+    <string name="ValorUSD">Valeur USD:</string>
+    <string name="Satoshi_Moeda">Satoshi (devise):</string>
+    <string name="botao_Calcular">Pour calculer</string>
+    <string name="Percentua">Pourcentage</string>
+    <string name="Conversão_para_Moeda">Conversion de devise:</string>
+    <string name="Convesao_para_USD">Concurrence à USD:</string>
+    <string name="OperaçãoMoeda">Devise d`opération:</string>
+    <string name="OperaçãoUSD">Opération USD:</string>
+    <string name="Sem_Conexão">Pas de connexion !!!</string>
+    <string name="Menu_Atualizar">Mettre</string>
+    <string name="Valor_CalculadoraActivity">Valeur</string>
+    <string name="Toast_CalculadoraActivity">Remplissez ĺ´une des opérations!</string>
+    <string name="hint_campo1">Convention pour la CTB</string>
+    <string name="hint_campo2">Convention pour les dollars</string>
+    <string name="hint_campo3">Ajouter un pourcentage</string>
+    <string name="Sete_Dias">7 jours ➠</string>
+    <string name="Vinte_e_quatro_hs">24hs   ➠</string>
+    <string name="Uma_hs">1hs   ➠</string>
+    <string name="msg_para_validar_parametro">Chargement...</string>
+    <string name="rank_list_moeda_adapter">classification </string>
+    <string name="preco_lista_moeda_adapter">Gamme de pri</string>
+    <string name="volue_list_moeda_adapter">Volume</string>
+</resources>
